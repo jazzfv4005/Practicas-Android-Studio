@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">pracjrl7s21</string>
+    <string name="titulop1">Practicas 1er Parcial</string>
+    <string name="descripimgp1">logo tesoem</string>
+    <string name="titulobtn1">Saludar</string>
+    <string name="describtn1">saludar</string>
+    <string name="titulobtn2">Calculadora</string>
+    <string name="describtn2">calcular</string>
+    <string name="titulop2">Calculadora</string>
+    <string name="lbl1">Ingresa el primer numero a sumar</string>
+    <string name="lbl2">Ingresa el segundo numero a sumar</string>
+    <string name="lbl3">El resultado de la suma es... =D</string>
+    <string name="destxtnum1">mun1</string>
+    <string name="destxtnum2">num2</string>
+    <string name="txtvalor1">Numero 1</string>
+    <string name="txtvalor2">Numero 2</string>
+    <string name="titulobtn3">Sumar</string>
+    <string name="desbtn3">sumar</string>
+    <string name="titulobtn4">Regresar</string>
+    <string name="desbtn4">regresar</string>
+    <string name="titulobtn5">Imprimir Nombre</string>
+    <string name="desbtn5">impnom</string>
+    <string name="lbl4">Mostar Nombre</string>
+    <string name="txthint1">Ingresa tu nombre</string>
+    <string name="titulobtn6">Guardar</string>
+    <string name="lblnomguardado">Se imprimira tu nombre</string>
+
+
+</resources>
